@@ -39,7 +39,7 @@ cssselect==1.0.1
 cycler==0.10.0
 Cython==0.26.1
 cytoolz==0.8.2
-dask==0.15.2
+dask==2021.10.0
 datadotworld==1.2.5
 datapackage==0.8.9
 datashape==0.5.4
